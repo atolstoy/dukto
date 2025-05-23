@@ -21,6 +21,7 @@ BuildRequires:	pkgconfig(Qt5Qml)
 BuildRequires:	pkgconfig(Qt5Quick)
 BuildRequires:	pkgconfig(x11)
 BuildRequires:	pkgconfig(xext)
+Requires:       qt5-qtdeclarative
 
 %description
 Dukto is an easy file transfer tool designed for LAN use.
